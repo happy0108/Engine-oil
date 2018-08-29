@@ -8,7 +8,6 @@
     <ScrollViewer>
         <StackPanel>
             <TextBlock Text="MODERN UI FOR WPF" Style="{StaticResource Heading2}" />
-            <TextBlock Text="Your content here" />
         </StackPanel>
     </ScrollViewer>
 </mui:ModernWindow>
